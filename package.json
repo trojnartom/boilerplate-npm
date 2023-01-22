@@ -1,6 +1,7 @@
 {
 	"author": "Tom Trojnar",
 	"description": "My learning project from freeCodeCamp",
+	"keywords": ["freecodecamp", "learnning", "trojnart"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
